@@ -1,0 +1,2 @@
+git credentials:- git config --global credential.helper store
+root password:- sudo -i   ;  passwd
